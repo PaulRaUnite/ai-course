@@ -1,2 +1,2 @@
-# ai-course
+# AI course
 AI course task implementations
